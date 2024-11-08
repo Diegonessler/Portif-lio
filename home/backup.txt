@@ -1,0 +1,2 @@
+ <li><a href="https://www.linkedin.com/in/diego-nessler-a48aa9224/" target="_blank">LinkedIn</a></li>
+                <li><a href="https://github.com/Diegonessler" target="_blank">GitHub</a></li>
